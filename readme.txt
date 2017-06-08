@@ -5,5 +5,10 @@ Git is free software distributed under the GPL.
 Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick AND simple.
+<<<<<<< HEAD
 >>>>>>> featurel
-hello jacky
+hello tracy
+=======
+>>>>>>> featurel 
+hello tracy
+>>>>>>> fb2cf111bd1533ce5d2ee001d4cdee9cff0efe2b
